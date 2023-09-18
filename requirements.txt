@@ -1,0 +1,16 @@
+streamlit
+openai
+streamlit-extras
+shortuuid
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+statsmodels
+altair
+plotly
+scikit-learn
+matplotlib
+pangea-sdk
+python-dotenv
